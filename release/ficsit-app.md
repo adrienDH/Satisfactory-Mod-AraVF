@@ -11,8 +11,8 @@ French voice for the FICSIT AI (ADA/ARA): every message, alien calls and cinemat
 ```
 
 - **Logo** : `assets/icons/icon-A-onde-512.png`
-- **Source URL** : (vide pour l'instant)
-- **Hidden** : coché pour le premier essai
+- **Source URL** : https://github.com/adrienDH/Satisfactory-Mod-AraVF
+- **Hidden** : décoché
 
 ## Description complète (Markdown)
 
@@ -33,8 +33,12 @@ Subtitles keep the official French text and stay in sync with the voice.
 
 ## Language option
 
-**Options > Audio > "Langue de l'IA FICSIT"** (FICSIT AI language): **Français** or **English**.
+**Options > Audio > "Langue de l'IA FICSIT"** (FICSIT AI language): **Français**, **English** (original voice), and any installed language pack.
 The change applies immediately, even mid-game (on ADA's next message). The option label is translated in the 22 languages of the game.
+
+## Language packs
+
+This mod is also the **base for other languages**: a language pack is a small separate mod, without code, that adds its language to the option. The source code, the voice production tools and a step-by-step guide to create a pack are on GitHub: **[adrienDH/Satisfactory-Mod-AraVF](https://github.com/adrienDH/Satisfactory-Mod-AraVF)** ([how to create a language pack](https://github.com/adrienDH/Satisfactory-Mod-AraVF/blob/main/docs/CREATING-A-LANGUAGE-PACK.md)).
 
 ## Requirements
 
@@ -72,33 +76,27 @@ The change applies immediately, even mid-game (on ADA's next message). The optio
 
 **Ce qui est doublé** : tous les messages d'ARA (630), les 55 communications avec les aliens (avec une voix alien distincte), la cinématique d'arrivée en capsule et la cinématique de décollage du Projet Assemblage. Les sous-titres restent ceux de la traduction officielle, synchronisés avec la voix.
 
-**Réglage** : Options > Audio > « Langue de l'IA FICSIT » : Français ou English. Le changement s'applique tout de suite, même en pleine partie.
+**Réglage** : Options > Audio > « Langue de l'IA FICSIT » : Français, English (voix d'origine) et chaque pack de langue installé. Le changement s'applique tout de suite, même en pleine partie.
+
+**Autres langues** : ce mod sert aussi de base à des packs de langue (petits mods séparés, sans code). Code source et guide pour créer un pack : https://github.com/adrienDH/Satisfactory-Mod-AraVF
 
 **Limites connues** : la voix est une voix de synthèse (IA, voir plus haut). Pendant l'intro en français, le grondement de la capsule est recréé (bruit synthétique qui suit l'intensité de l'original) : le jeu le mélange à la voix anglaise dans la même piste, et le mod n'embarque aucun son du jeu. La voix s'adresse toujours au joueur au masculin (« pionnier »), alors qu'une quinzaine de sous-titres officiels disent « pionnière ».
 
 **Prérequis** : Satisfactory 1.2 (Epic ou Steam), SML 3.12 (installé par le Satisfactory Mod Manager). Mod côté client uniquement.
 ```
 
-## Version — champs de « New Version »
+## Version 2.0.0 — champs de « New Version »
 
-- **File** : `AraVF.zip` (dans le dossier Téléchargements)
+- **File** : `AraVF.zip` (2.0.0, dans le dossier Téléchargements)
 - **Changelog** :
 
 ```
-1.0.0 — First public release.
-- French voice for all 630 ADA messages, the 55 alien communications, the drop-pod intro and the launch cinematic.
-- Options > Audio > "Langue de l'IA FICSIT": French / English, applied immediately.
+2.0.0 — Language packs
+- New: other languages can be added as separate language packs (content-only mods). Each installed pack adds its language to Options > Audio > "Langue de l'IA FICSIT". Your current setting is kept.
+- Source code and a guide to create a language pack: https://github.com/adrienDH/Satisfactory-Mod-AraVF
+- Intro cinematic: the voice now starts only with the cinematic, and stops if you change the language during it.
+- More robust loading (invalid or incomplete packs are ignored with a clear log message), smaller game log.
+- Option tooltip updated in the game's 22 languages.
 ```
 
 - **Compatibility** : Stable = Works, Experimental = Works
-
-## Version 1.1.0
-
-- **File** : `AraVF.zip` (1.1.0)
-- **Changelog** :
-
-```
-1.1.0
-- Intro cinematic: the drop-pod rumble is back in French (recreated ambience, no game audio redistributed).
-- "Pipeline" is now pronounced the English way, as French players say it.
-```
