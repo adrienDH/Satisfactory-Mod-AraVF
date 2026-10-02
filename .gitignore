@@ -1,0 +1,26 @@
+# --- Fichiers du jeu et donnees extraites (Coffee Stain) : jamais publies, regeneres par extract/extract-all.ps1
+corpus/
+raw/
+extract/oo2core_*.dll
+
+# --- Configuration locale (chemins de cette machine)
+config.local.ps1
+
+# --- Voix generees, plans, journaux
+tts/voices/
+*.log
+wwise/action-targets.json
+__pycache__/
+
+# --- Outils tiers telecharges
+tools/
+
+# --- Unreal : fichiers generes des mods (le contenu est recree par les scripts)
+mod/*/Binaries/
+mod/*/Intermediate/
+mod/*/Saved/
+mod/*/Content/
+packs/*/Binaries/
+packs/*/Intermediate/
+packs/*/Saved/
+packs/*/Content/

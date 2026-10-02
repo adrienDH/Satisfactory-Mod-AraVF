@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"SemVersion": "1.0.0",
+	"GameVersion": ">=502094",
+	"FriendlyName": "FICSIT AI Spanish language",
+	"Description": "Spanish voice-over for the FICSIT AI (ADA), language pack for FICSIT AI French language. Choose the voice language in Options > Audio.",
+	"Category": "Modding",
+	"CreatedBy": "AdrienDH",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": true,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.12.0"
+		},
+		{
+			"Name": "AraVF",
+			"Enabled": true,
+			"SemVersion": "^2.0.0"
+		}
+	],
+	"RequiredOnRemote": false
+}

@@ -1,0 +1,36 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "2.0.0",
+	"SemVersion": "2.0.0",
+	"GameVersion": ">=502094",
+	"FriendlyName": "FICSIT AI French language",
+	"Description": "French voice-over for the FICSIT AI (ADA): every message, the alien communications and the intro and launch cinematics. Choose the voice language in Options > Audio.",
+	"Category": "Modding",
+	"CreatedBy": "AdrienDH",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"BuiltInInitialFeatureState": "Active",
+	"Modules": [
+		{
+			"Name": "AraVF",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.12.0"
+		}
+	],
+	"GameFeature": true,
+	"RequiredOnRemote": false
+}
