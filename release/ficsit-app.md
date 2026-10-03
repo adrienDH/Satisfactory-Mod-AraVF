@@ -100,3 +100,13 @@ This mod is also the **base for other languages**: a language pack is a small se
 ```
 
 - **Compatibility** : Stable = Works, Experimental = Works
+
+## Version 2.0.1
+
+- **File** : `AraVF.zip` (2.0.1)
+- **Changelog** :
+
+```
+2.0.1
+- New name: FICSIT AI Voices (FR + packs), and new icon. No functional change.
+```
