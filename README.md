@@ -1,4 +1,6 @@
-# FICSIT AI voice languages
+<p align="center"><img src="assets/icons/icon-L-bulles-onde-512.png" alt="FICSIT AI Voices logo" width="160"></p>
+
+# FICSIT AI Voices (FR + packs)
 
 A Satisfactory mod that gives the FICSIT AI (ADA) a voice in other languages than English, using the game's own
 official translations — plus the tools to produce new language packs.
