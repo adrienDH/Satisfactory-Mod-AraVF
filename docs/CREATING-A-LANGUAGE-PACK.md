@@ -123,7 +123,7 @@ powershell -ExecutionPolicy Bypass -File unreal\package-mod.ps1 -Mods AraVF_XX -
 1. Upload `<SmlProject>\Saved\ArchivedPlugins\AraVF_XX\AraVF_XX.zip` as a new version. Remove the `.pdb`
    files first: players don't need them.
 2. **Mod reference**: the mod name. It can't be changed after creation.
-3. **Description**: say it is a language pack for *FICSIT AI French language* (AraVF), and credit the voice:
+3. **Description**: say it is a language pack for *FICSIT AI Voices (FR + packs)* (AraVF), and credit the voice:
    - Kokoro-82M by hexgrad, Apache 2.0;
    - the voice data license of your Kokoro voice, listed in Kokoro's
      [VOICES.md](https://huggingface.co/hexgrad/Kokoro-82M/blob/main/VOICES.md).

@@ -5,7 +5,7 @@
 	"SemVersion": "1.0.0",
 	"GameVersion": ">=502094",
 	"FriendlyName": "FICSIT AI Spanish language",
-	"Description": "Spanish voice-over for the FICSIT AI (ADA), language pack for FICSIT AI French language. Choose the voice language in Options > Audio.",
+	"Description": "Spanish voice-over for the FICSIT AI (ADA), language pack for FICSIT AI Voices (FR + packs). Choose the voice language in Options > Audio.",
 	"Category": "Modding",
 	"CreatedBy": "AdrienDH",
 	"CreatedByURL": "https://github.com/adrienDH",

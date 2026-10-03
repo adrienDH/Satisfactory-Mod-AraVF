@@ -112,7 +112,7 @@ powershell -ExecutionPolicy Bypass -File unreal\package-mod.ps1 -Mods AraVF_XX -
 1. Téléverser `<SmlProject>\Saved\ArchivedPlugins\AraVF_XX\AraVF_XX.zip` comme nouvelle version. Retirer d'abord
    les `.pdb`, inutiles aux joueurs.
 2. **Mod reference** : le nom du mod. Elle n'est plus modifiable ensuite.
-3. **Description** : préciser que c'est un pack de langue pour *FICSIT AI French language* (AraVF), et créditer
+3. **Description** : préciser que c'est un pack de langue pour *FICSIT AI Voices (FR + packs)* (AraVF), et créditer
    la voix :
    - Kokoro-82M de hexgrad, Apache 2.0 ;
    - la licence des données de la voix Kokoro utilisée, indiquée dans son

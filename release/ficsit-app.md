@@ -2,7 +2,7 @@
 
 ## Champs de « New Mod »
 
-- **Name** : FICSIT AI French language
+- **Name** : FICSIT AI Voices (FR + packs)
 - **Mod Reference** : `AraVF`  ← exactement ça, non modifiable ensuite
 - **Short description** (moins de 128 caractères) :
 
@@ -10,14 +10,14 @@
 French voice for the FICSIT AI (ADA/ARA): every message, alien calls and cinematics. Switch FR/EN in Options > Audio.
 ```
 
-- **Logo** : `assets/icons/icon-A-onde-512.png`
+- **Logo** : `assets/icons/icon-L-bulles-onde-512.png`
 - **Source URL** : https://github.com/adrienDH/Satisfactory-Mod-AraVF
 - **Hidden** : décoché
 
 ## Description complète (Markdown)
 
 ```markdown
-# FICSIT AI French language
+# FICSIT AI Voices (FR + packs)
 
 **ADA speaks French.** This mod gives the FICSIT AI — called **ARA** in the French version of the game — a full French voice-over, based on the game's official French translation.
 

@@ -3,7 +3,7 @@
 A Satisfactory mod that gives the FICSIT AI (ADA) a voice in other languages than English, using the game's own
 official translations — plus the tools to produce new language packs.
 
-- **Base mod `AraVF`** — on ficsit.app as [FICSIT AI French language](https://ficsit.app/mod/AraVF):
+- **Base mod `AraVF`** — on ficsit.app as [FICSIT AI Voices (FR + packs)](https://ficsit.app/mod/AraVF):
   - the option *Options > Audio > FICSIT AI Language*;
   - voice replacement for the 630 ADA messages, the alien communications, the drop-pod intro and the
     launch cinematic;
